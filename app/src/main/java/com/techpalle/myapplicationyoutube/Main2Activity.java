@@ -34,7 +34,7 @@ import com.google.android.youtube.player.YouTubePlayerView;
 
       if (b = true){
 
-          youTubePlayer.cueVideo("E_7LGsaxiFI");
+          youTubePlayer.cueVideo("E_7LGsaxiFI");// Plays https://www.youtube.com/watch?v=E_7LGsaxiFI
       }
 
     }
